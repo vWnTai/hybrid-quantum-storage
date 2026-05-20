@@ -1,0 +1,8 @@
+2026-05-13 19:18:57,574 - AppLogger - WARNING - pqcrypto library not found. Please install it or use the mock for testing.
+2026-05-13 19:18:57,658 - AppLogger - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 19:18:58,298 - AppLogger - INFO - [System] Initializing keys and directories...
+2026-05-13 19:18:58,298 - AppLogger - INFO - Keys not found. Generating new ones.
+2026-05-13 19:18:58,298 - AppLogger - INFO - Generating Kyber512 keypair...
+2026-05-13 19:18:58,298 - AppLogger - WARNING - Using mock key generation due to missing pqcrypto.
+2026-05-13 19:18:58,298 - AppLogger - INFO - Kyber512 keypair generated and saved.
+2026-05-13 19:18:58,302 - AppLogger - INFO - [System] Keys loaded successfully. Ready.

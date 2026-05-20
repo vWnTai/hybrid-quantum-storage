@@ -1,0 +1,117 @@
+2026-05-13 19:31:06,961 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 19:31:50,206 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 19:31:51,443 - INFO - Booting cryptographic systems...
+2026-05-13 19:31:51,448 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 19:31:51,450 - INFO - System Ready.
+2026-05-13 19:32:03,558 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 19:32:04,082 - INFO - Booting cryptographic systems...
+2026-05-13 19:32:04,084 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 19:32:04,088 - INFO - System Ready.
+2026-05-13 19:32:48,355 - INFO - Encrypting NHOM6_QLATTT.docx...
+2026-05-13 19:32:48,355 - INFO - Starting encryption process for NHOM6_QLATTT.docx
+2026-05-13 19:32:48,372 - INFO - Encryption successful. Encrypted: NHOM6_QLATTT.docx.enc, Meta: NHOM6_QLATTT.docx.json
+2026-05-13 19:32:48,374 - INFO - SUCCESS! Encrypted in 0.016s. Throughput: 7.12 MB/s
+2026-05-13 19:32:48,374 - INFO - Encrypted File: NHOM6_QLATTT.docx.enc | Metadata: NHOM6_QLATTT.docx.json
+2026-05-13 19:32:56,978 - INFO - Encrypting NHOM6_QLATTT.docx...
+2026-05-13 19:32:56,978 - INFO - Starting encryption process for NHOM6_QLATTT.docx
+2026-05-13 19:32:56,978 - INFO - Encryption successful. Encrypted: NHOM6_QLATTT.docx.enc, Meta: NHOM6_QLATTT.docx.json
+2026-05-13 19:32:56,978 - INFO - SUCCESS! Encrypted in 0.000s. Throughput: 0.00 MB/s
+2026-05-13 19:32:56,978 - INFO - Encrypted File: NHOM6_QLATTT.docx.enc | Metadata: NHOM6_QLATTT.docx.json
+2026-05-13 19:33:14,026 - INFO - Decrypting NHOM6_QLATTT.docx...
+2026-05-13 19:33:14,032 - INFO - Validating AES-GCM Auth Tags & SHA-256 Hashes...
+2026-05-13 19:33:14,034 - INFO - Starting decryption process for NHOM6_QLATTT.docx
+2026-05-13 19:33:14,034 - ERROR - Decryption/Validation Failed: AES key unwrapping failed (Invalid Auth Tag). KEK is wrong or data corrupted.
+2026-05-13 19:35:47,198 - INFO - Starting encryption process for test_hello.txt
+2026-05-13 19:35:47,213 - INFO - Encryption successful. Encrypted: test_hello.txt.enc, Meta: test_hello.txt.json
+2026-05-13 19:35:47,214 - INFO - Starting decryption process for test_hello.txt.enc
+2026-05-13 19:38:02,267 - INFO - Starting encryption process for test_hello.txt
+2026-05-13 19:38:02,273 - WARNING - Keys not found. Generating new ones.
+2026-05-13 19:38:02,273 - INFO - Generating Kyber512 keypair...
+2026-05-13 19:38:02,274 - INFO - Kyber512 keypair generated and saved.
+2026-05-13 19:38:02,274 - INFO - Encryption successful. Encrypted: test_hello.txt.enc, Meta: test_hello.txt.json
+2026-05-13 19:38:02,275 - INFO - Starting decryption process for test_hello.txt.enc
+2026-05-13 19:38:02,315 - INFO - Decryption and integrity checks passed. Saved to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\test_hello.txt
+2026-05-13 19:38:49,500 - INFO - Starting encryption process for test_hello.txt
+2026-05-13 19:38:49,506 - INFO - Encryption successful. Encrypted: test_hello.txt_20260513_123849.enc, Meta: test_hello.txt_20260513_123849.json
+2026-05-13 19:38:49,506 - INFO - Starting decryption process for test_hello.txt_20260513_123849.enc
+2026-05-13 19:38:49,524 - INFO - Decryption and integrity checks passed. Saved to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\test_hello.txt
+2026-05-13 19:39:33,242 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 19:39:33,798 - INFO - Booting cryptographic systems...
+2026-05-13 19:39:33,798 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 19:39:33,803 - INFO - System Ready.
+2026-05-13 19:39:43,869 - INFO - Encrypting thuchanh2 pttk.docx...
+2026-05-13 19:39:43,869 - INFO - Starting encryption process for thuchanh2 pttk.docx
+2026-05-13 19:39:43,869 - INFO - Encryption successful. Encrypted: thuchanh2 pttk.docx_20260513_123943.enc, Meta: thuchanh2 pttk.docx_20260513_123943.json
+2026-05-13 19:39:43,881 - INFO - SUCCESS! Encrypted in 0.000s. Throughput: 0.00 MB/s
+2026-05-13 19:39:43,883 - INFO - Encrypted File: thuchanh2 pttk.docx_20260513_123943.enc | Metadata: thuchanh2 pttk.docx_20260513_123943.json
+2026-05-13 19:41:18,921 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 19:41:19,464 - INFO - Booting cryptographic systems...
+2026-05-13 19:41:19,467 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 19:41:19,469 - INFO - System Ready.
+2026-05-13 19:41:33,537 - INFO - Encrypting thuchanh2 pttk.docx...
+2026-05-13 19:41:33,537 - INFO - Starting encryption process for thuchanh2 pttk.docx
+2026-05-13 19:41:33,547 - INFO - Encryption successful. Encrypted: thuchanh2 pttk.docx_20260513_124133.enc, Meta: thuchanh2 pttk.docx_20260513_124133.json
+2026-05-13 19:41:33,550 - INFO - SUCCESS! Encrypted in 0.011s. Throughput: 55.84 MB/s
+2026-05-13 19:41:33,553 - INFO - Encrypted File: thuchanh2 pttk.docx_20260513_124133.enc | Metadata: thuchanh2 pttk.docx_20260513_124133.json
+2026-05-13 19:41:39,427 - INFO - Encrypting thuchanh2 pttk.docx...
+2026-05-13 19:41:39,428 - INFO - Starting encryption process for thuchanh2 pttk.docx
+2026-05-13 19:41:39,430 - INFO - Encryption successful. Encrypted: thuchanh2 pttk.docx_20260513_124139.enc, Meta: thuchanh2 pttk.docx_20260513_124139.json
+2026-05-13 19:41:39,432 - INFO - SUCCESS! Encrypted in 0.002s. Throughput: 302.65 MB/s
+2026-05-13 19:41:39,436 - INFO - Encrypted File: thuchanh2 pttk.docx_20260513_124139.enc | Metadata: thuchanh2 pttk.docx_20260513_124139.json
+2026-05-13 19:42:35,520 - INFO - Decrypting thuchanh2 pttk.docx_20260513_123943.enc...
+2026-05-13 19:42:35,524 - INFO - Validating AES-GCM Auth Tags & SHA-256 Hashes...
+2026-05-13 19:42:35,524 - INFO - Starting decryption process for thuchanh2 pttk.docx_20260513_123943.enc
+2026-05-13 19:42:35,536 - INFO - Decryption and integrity checks passed. Saved to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\thuchanh2 pttk.docx
+2026-05-13 19:42:35,539 - INFO - SUCCESS! File decrypted and integrity strictly verified in 0.012s.
+2026-05-13 19:42:35,542 - INFO - Restored to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\thuchanh2 pttk.docx
+2026-05-13 19:44:46,508 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 19:44:47,153 - INFO - Booting cryptographic systems...
+2026-05-13 19:44:47,155 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 19:44:47,160 - INFO - System Ready.
+2026-05-13 19:44:52,831 - INFO - Decrypting NHOM6_QLATTT.docx.enc...
+2026-05-13 19:44:52,831 - INFO - Validating AES-GCM Auth Tags & SHA-256 Hashes...
+2026-05-13 19:44:52,831 - INFO - Starting decryption process for NHOM6_QLATTT.docx.enc
+2026-05-13 19:44:52,845 - ERROR - Decryption/Validation Failed: AES key unwrapping failed (Invalid Auth Tag). KEK is wrong or data corrupted.
+2026-05-13 20:28:35,746 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 20:28:36,448 - INFO - Booting cryptographic systems...
+2026-05-13 20:28:36,451 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 20:28:36,454 - INFO - System Ready.
+2026-05-13 20:29:10,284 - INFO - Encrypting btl.docx...
+2026-05-13 20:29:10,285 - INFO - Starting encryption process for btl.docx
+2026-05-13 20:29:10,285 - INFO - Encryption successful. Encrypted: btl.docx_20260513_132910.enc, Meta: btl.docx_20260513_132910.json
+2026-05-13 20:29:10,292 - INFO - SUCCESS! Encrypted in 0.002s. Throughput: 255.43 MB/s
+2026-05-13 20:29:10,294 - INFO - Encrypted File: btl.docx_20260513_132910.enc | Metadata: btl.docx_20260513_132910.json
+2026-05-13 20:29:39,941 - INFO - Decrypting btl.docx_20260513_132910.enc...
+2026-05-13 20:29:39,949 - INFO - Validating AES-GCM Auth Tags & SHA-256 Hashes...
+2026-05-13 20:29:39,949 - INFO - Starting decryption process for btl.docx_20260513_132910.enc
+2026-05-13 20:29:39,957 - INFO - Decryption and integrity checks passed. Saved to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\btl.docx
+2026-05-13 20:29:39,962 - INFO - SUCCESS! File decrypted and integrity strictly verified in 0.012s.
+2026-05-13 20:29:39,962 - INFO - Restored to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\btl.docx
+2026-05-13 21:01:45,835 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 21:01:46,414 - INFO - Booting cryptographic systems...
+2026-05-13 21:01:46,414 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 21:01:46,414 - INFO - System Ready.
+2026-05-13 21:22:20,388 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 21:22:20,986 - INFO - Booting cryptographic systems...
+2026-05-13 21:22:20,988 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 21:22:20,990 - INFO - System Ready.
+2026-05-13 22:35:00,087 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-13 22:35:00,916 - INFO - Booting cryptographic systems...
+2026-05-13 22:35:00,921 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-13 22:35:00,929 - INFO - System Ready.
+2026-05-14 10:53:01,795 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-14 10:53:02,835 - INFO - Booting cryptographic systems...
+2026-05-14 10:53:02,846 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-14 10:53:02,852 - INFO - System Ready.
+2026-05-14 10:54:04,279 - INFO - Decrypting test_hello.txt.enc...
+2026-05-14 10:54:04,283 - INFO - Validating AES-GCM Auth Tags & SHA-256 Hashes...
+2026-05-14 10:54:04,283 - INFO - Starting decryption process for test_hello.txt.enc
+2026-05-14 10:54:04,328 - INFO - Decryption and integrity checks passed. Saved to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\test_hello.txt
+2026-05-14 10:54:04,330 - INFO - SUCCESS! File decrypted and integrity strictly verified in 0.045s.
+2026-05-14 10:54:04,330 - INFO - Restored to: D:\MonHoc\Nam3\Ky2\Sec_Coding\project\decrypted\test_hello.txt
+2026-05-16 13:18:21,882 - CRITICAL - Failed to import pqcrypto ML-KEM-512. Ensure it is installed.
+2026-05-16 13:18:37,989 - CRITICAL - Failed to import pqcrypto ML-KEM-512. Ensure it is installed.
+2026-05-16 13:18:56,619 - INFO - tkinterdnd2 not installed. Drag and drop disabled.
+2026-05-16 13:18:57,688 - INFO - Booting cryptographic systems...
+2026-05-16 13:18:57,705 - INFO - Kyber512 ML-KEM Keypair loaded successfully.
+2026-05-16 13:18:57,709 - INFO - System Ready.
